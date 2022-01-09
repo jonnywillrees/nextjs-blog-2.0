@@ -22,6 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       {/* Section 1 */}
       <section className={utilStyles.headingMd}>
+        <h1>YOU HAVE BEEN HACKED LOL</h1>
         <p>Hi. My name is Jonthan Rees. I am a frontend software developer, and this is my first NextJS app!</p>
         <p>
           This is a sample website - you’ll be building a site like this on <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
